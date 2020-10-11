@@ -9,5 +9,7 @@
  * @author VULKAN
  */
 public class Zadanie_32 {
-    
+    public static void main(String[] args){ //метод
+       System.out.println("b=6, d=b*2-1 p=4, g=5 нахождение корней  "); //вывод символов
+}
 }

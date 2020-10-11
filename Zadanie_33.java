@@ -9,5 +9,7 @@
  * @author VULKAN
  */
 public class Zadanie_33 {
-    
+     public static void main(String[] args){ //метод
+       System.out.println("1 1 2 3 1 2 3 4 5 1 2 3 4 5 6 7 "); //вывод символов
+    }
 }
