@@ -9,7 +9,10 @@
  * @author VULKAN
  */
 public class Zadanie_33 {
-     public static void main(String[] args){ //метод
-       System.out.println("1 1 2 3 1 2 3 4 5 1 2 3 4 5 6 7 "); //вывод символов
+    public static void main(String[] args){ //метод
+        System.out.println("1"); //вывод символов
+       System.out.println("1 2 3"); //вывод символов
+       System.out.println("1 2 3 4 5"); //вывод символов
+       System.out.println("1 2 3 4 5 6 7"); //вывод символов
     }
 }
